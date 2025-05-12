@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "../ECSD_Lab2_Sample"
+		},
+		{
+			"name": "ECSD_Lab2_PWM",
+			"path": "../ECSD_Lab2_PWM"
+		},
+		{
+			"name": "ECSD_Lab3_Serial",
+			"path": "../ECSD_Lab3_Serial"
+		},
+		{
+			"name": "ECSD_Lab3_DAC",
+			"path": "../ECSD_Lab3_DAC"
+		},
+		{
+			"name": "ECSD_Lab4_ADC",
+			"path": "../ECSD_Lab4_ADC"
+		},
+		{
+			"name": "ECSD_Lab_4_ADC_PWM",
+			"path": "../ECSD_Lab_4_ADC_PWM"
+		},
+		{
+			"name": "ECSD_MiniProject",
+			"path": "."
+		},
+		{
+			"name": "ECSD_UART_USITC",
+			"path": "../ECSD_UART_USITC"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"delay.h": "c",
+			"interrupt.h": "c"
+		}
+	}
+}
